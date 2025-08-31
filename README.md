@@ -2,19 +2,18 @@
 
 ###
 
+
+
+<h2 align="left">current chaos</h2>
+
 <img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdpdWY4NzI3NGkwM3pld2lwbXV5bjlqaDVuMjlsY3Y1dHNtOHQ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fj0MaDHcLycOk/giphy.gif"  />
 
-###
-
-<h3 align="left">current chaos</h3>
-
-###
-
-<p align="left">🍊 building capyclip <br>👾 fixing bug cuz they keep coming (send help)<br>✨ breaking my low ram pc with coding experiments (also send help)<br>🤧 pretending i like js (i don’t, but... )</p>
+<p align="left"> - building <a href="www.capyclip.com"> <kbd>capyclip</kbd></a> 🍊 <br> - fixing bug cuz they keep coming (send help)<br> - breaking my low ram pc with coding experiments (also send help)<br> - pretending i like js (i don’t, but... )</p>
+<br>
 
 ###
 
-<h2 align="left">my tech bucket</h2>
+<h2 align="left">current stack</h2>
 
 ###
 
@@ -27,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
