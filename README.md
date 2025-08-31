@@ -1,7 +1,7 @@
 <h1 align="left">hey there, rameen here 🍜</h1>
 
 
-<img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdpdWY4NzI3NGkwM3pld2lwbXV5bjlqaDVuMjlsY3Y1dHNtOHQ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fj0MaDHcLycOk/giphy.gif"  />
+<img align="right" height="190" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp6ZmE3b3h1MHEyd3BhZmp3MTE5NWY1b2lnM3IweHhyamYxODE4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RNQ0qRIwGek48/giphy.gif"  />
 
 <h3 align="left">* current chaos</h3>
 
