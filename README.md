@@ -10,7 +10,7 @@
   <li>building <a href="www.capyclip.com"> <kbd>capyclip</kbd></a> 🍊</li> 
   <li>fixing bug cuz they keep coming (send help)</li> 
   <li>breaking my low ram pc with coding experiments (also send help)</li>
-  <li>pretending i like js (i don’t, but... )</li>
+  <li>pretending i like what i do</li>
 </ul>
 <br>
 <h3 align="left">* tech stack</h3>
