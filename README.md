@@ -44,7 +44,7 @@
 <h3 align="left">* most used languages</h3>
 <div align="left">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanrameen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=black&hide_border=true&order=2" height="170" alt="languages graph"  /> -->
-  <picture>
+  <!-- <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=khanrameen&theme=github_dark&hide_border=true&layout=compact&langs_count=5&hide_title=true" 
     media="(prefers-color-scheme: dark)" />
@@ -55,7 +55,10 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=khanrameen&theme=default&hide_border=true&layout=compact&langs_count=5&hide_title=true" 
     height="170" 
     alt="languages graph" />
-</picture>
+</picture> -->
 
+  <p align="left">
+  <img src="https://github-toplang-stats.vercel.app/stats?username=KhanRameen&theme=sunrise&hide=css" />
+</p>
 
 </div>
