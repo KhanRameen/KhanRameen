@@ -7,7 +7,7 @@
 
 
 <ul align="left">
-  <li>building <a href="www.capyclip.com"> <kbd>capyclip</kbd></a> 🍊</li> 
+  <li>building <a href="https://www.capyclip.com"> <kbd>capyclip</kbd></a> 🍊</li> 
   <li>fixing bugs cuz they keep coming (send help)</li> 
   <li>breaking my low ram pc with coding experiments (also send help)</li>
   <li>pretending i like what i do (i am helpless)</li>
